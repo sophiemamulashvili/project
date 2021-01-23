@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Scroll</string>
+    <string name="name_lastname_region_ocupation">Name | Lastname | Region | Ocupation</string>
+    <string name="name_last_name_region_occupation">Name | Last name | Region | Occupation</string>
+    <string name="name">Name</string>
+    <string name="region">Region</string>
+    <string name="last_name">Last name</string>
+    <string name="occupation">Occupation</string>
+    <string name="sofi">Sofi</string>
+    <string name="mamulashvili">Mamulashvili</string>
+    <string name="georgia">Georgia</string>
+    <string name="student_of_it">Student of IT</string>
+    <string name="place_work_study">Work/study</string>
+    <string name="google">Google</string>
+    <string name="btu">BTU</string>
+    <string name="lives">Lives in</string>
+    <string name="listening_songs">Listening Songs</string>
+    <string name="works_per_day">Works per day</string>
+    <string name="brad">Brad</string>
+    <string name="pitt">Pitt</string>
+    <string name="argentina">Argentina</string>
+    <string name="engineer">Engineer</string>
+    <string name="las_vegas">Las Vegas</string>
+    <string name="programmer">Programmer</string>
+    <string name="_7_hours">7 Hours</string>
+    <string name="salary">Salary</string>
+    <string name="hobby">Hobby</string>
+    <string name="loves">Loves</string>
+    <string name="_4000">4000$</string>
+    <string name="football">Football</string>
+</resources>
